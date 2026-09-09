@@ -1,1 +1,1 @@
-# otus-mssql-ternikova
+### Домашние задания курса OTUS MS SQL Server Developer
